@@ -23,14 +23,14 @@ print("Humidity",data['main']['humidity'])
 
 print("sunrise",data['sys']['sunrise'])
 
-print("sunrise",data['sys']['sunset'])
+print("sunet",data['sys']['sunset'])
 
 
 
 
 #weather = weather_data.json()['weather'][0]['main']
 #temp = weather_data.json()['main']['temp']
-#print(weather_data.json()) 
+print(weather_data.json()) 
 
 
 
